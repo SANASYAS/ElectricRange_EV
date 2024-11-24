@@ -202,11 +202,6 @@ python-lsp-server==1.7.4
 python-multipart==0.0.12
 python-slugify==8.0.1
 pytoolconfig==1.2.5
-pytz==2023.3.post1
-pywin32==306
-pywin32-ctypes==0.2.2
-pywinpty==2.0.11
-PyYAML==6.0.1
 pyzmq==25.1.1
 QDarkStyle==3.1
 qstylizer==0.2.2
